@@ -27,14 +27,6 @@ footer {
     margin: 24px;
 }
 
-/* #p1, #p2, #p3 {
-    background-color: #e2e2e2;
-    text-align: center;
-    padding: 12px;
-    border: solid;
-    margin: 12px 0;
-} */
-
 .projects {
     width: 100%;
     overflow: auto;
