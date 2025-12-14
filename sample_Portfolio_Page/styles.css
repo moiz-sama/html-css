@@ -1,0 +1,50 @@
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+header {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 18px;
+    border: solid;
+    margin: 24px;
+}
+
+section {
+    background-color: #f4f4f4;
+    padding: 18px;
+    border: solid;
+    margin: 24px;
+}
+
+
+footer {
+    background-color: #f4f4f4;
+    padding: 18px;
+    border: solid;
+    margin: 24px;
+}
+
+/* #p1, #p2, #p3 {
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 12px;
+    border: solid;
+    margin: 12px 0;
+} */
+
+.projects {
+    width: 100%;
+    overflow: auto;
+}
+
+.projects div {
+    width: 30%;
+    float: left;
+    border: solid;
+    margin: 1%;
+    text-align: center;
+}
+
